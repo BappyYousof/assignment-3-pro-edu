@@ -4,6 +4,9 @@ body{
 a{
     text-decoration: none;
 }
+ul,ol{
+    list-style-type: none;
+}
 .carousel-item{
     width: 200vh;
     height: 500px;
@@ -33,5 +36,9 @@ a{
 }
 .photo img{
     height: 600px;
+   
+}
+span a{
+    color: #fff;
    
 }
